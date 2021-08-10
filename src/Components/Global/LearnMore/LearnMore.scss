@@ -1,0 +1,44 @@
+// Import Vars File
+@import "../../../Sass/Vars";
+// Start Styling learn-more
+.learn-more {
+    display: flex;
+    justify-content: center;
+    a {
+        width: fit-content;
+        font-size: 23pt;
+        display: flex;
+        color: $main-color;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        img {
+            margin-top: 10px;
+            animation: arrow 1.2s infinite;
+        }
+    }
+}
+
+//========For Responsive
+// Small devices (landscape phones, 767.98px and up)
+@media (max-width: 767.98px) {
+    .learn-more {
+        a {
+            font-size: 17pt;
+            img {
+                width: 20px;
+            }
+        }
+    }
+}
+@keyframes arrow {
+    0% {
+        transform: translate(0, 0);
+    }
+    50% {
+        transform: translate(0, 100%);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}

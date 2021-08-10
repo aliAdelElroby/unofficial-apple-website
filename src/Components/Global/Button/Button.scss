@@ -1,0 +1,21 @@
+// Import Vars File
+@import "../../../Sass/Vars";
+// Start Styling Button
+.main-button {
+    background-color: #2a2a2a70;
+    color: $main-color;
+    padding: 15px 50px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20pt;
+    font-weight: 500;
+    backdrop-filter: blur(10px);
+}
+
+//=====For Responsive
+// Small devices (landscape phones, 767.98px and up)
+@media (max-width: 767.98px) {
+    .main-button {
+        font-size: 15pt;
+    }
+}

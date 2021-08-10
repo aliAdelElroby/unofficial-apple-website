@@ -1,0 +1,47 @@
+// Import Vars File
+@import "../../../Sass/Vars";
+// Start Macbook Section
+.Macbook {
+    min-height: 900px;
+    background: url(./assets/mac-bg.png);
+    background-size: cover;
+    background-position: center;
+    scroll-snap-align: start;
+    // Content
+    .content {
+        margin-top: 300px;
+        h2 {
+            color: $main-color;
+            font-size: 50pt;
+            font-weight: 100;
+            margin-bottom: 70px;
+        }
+    }
+    //Learn More
+    .learn-more {
+        margin-top: 160px;
+    }
+}
+// Medium devices (tablets, 768px and Down)
+@media (max-width: 991.98px) {
+    .Macbook {
+        background-position: 20% 0;
+    }
+}
+
+// Small devices (landscape phones, 767.98px and up)
+@media (max-width: 767.98px) {
+    .Macbook {
+        // Content
+        .content {
+            h2 {
+                font-size: 40pt;
+                width: 90%;
+            }
+        }
+        //Learn More
+        .learn-more {
+            margin-top: 130px;
+        }
+    }
+}
