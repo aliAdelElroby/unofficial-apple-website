@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/unofficial-apple-website/static/css/main.220bd69c.chunk.css",
+    "main.js": "/unofficial-apple-website/static/js/main.71b0ea4e.chunk.js",
+    "main.js.map": "/unofficial-apple-website/static/js/main.71b0ea4e.chunk.js.map",
+    "runtime-main.js": "/unofficial-apple-website/static/js/runtime-main.b11818bd.js",
+    "runtime-main.js.map": "/unofficial-apple-website/static/js/runtime-main.b11818bd.js.map",
+    "static/css/2.679831fc.chunk.css": "/unofficial-apple-website/static/css/2.679831fc.chunk.css",
+    "static/js/2.92fdd652.chunk.js": "/unofficial-apple-website/static/js/2.92fdd652.chunk.js",
+    "static/js/2.92fdd652.chunk.js.map": "/unofficial-apple-website/static/js/2.92fdd652.chunk.js.map",
+    "index.html": "/unofficial-apple-website/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/unofficial-apple-website/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.220bd69c.chunk.css.map": "/unofficial-apple-website/static/css/main.220bd69c.chunk.css.map",
+    "static/js/2.92fdd652.chunk.js.LICENSE.txt": "/unofficial-apple-website/static/js/2.92fdd652.chunk.js.LICENSE.txt",
+    "static/media/ArrowDown.b1b053dd.svg": "/unofficial-apple-website/static/media/ArrowDown.b1b053dd.svg",
+    "static/media/Iphone.3d8d2d64.png": "/unofficial-apple-website/static/media/Iphone.3d8d2d64.png",
+    "static/media/Logo.0d03cda3.svg": "/unofficial-apple-website/static/media/Logo.0d03cda3.svg",
+    "static/media/cart_icn_empty.6580baf5.svg": "/unofficial-apple-website/static/media/cart_icn_empty.6580baf5.svg",
+    "static/media/cart_icn_fill.ebf912f3.svg": "/unofficial-apple-website/static/media/cart_icn_fill.ebf912f3.svg",
+    "static/media/Macbook.scss": "/unofficial-apple-website/static/media/mac-bg.71e9d445.png",
+    "static/media/search_icn.8923959b.svg": "/unofficial-apple-website/static/media/search_icn.8923959b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b11818bd.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.92fdd652.chunk.js",
+    "static/css/main.220bd69c.chunk.css",
+    "static/js/main.71b0ea4e.chunk.js"
+  ]
+}
